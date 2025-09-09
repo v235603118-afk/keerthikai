@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <style>
+        .box{
+            background-color:darkslategray;
+            text-align: center;
+            margin-top: 200px;
+            margin-left: 500px;
+            margin-right: 500px;
+            border-radius: 20px;
+            
+
+        }
+        body{
+            margin: 0%;
+            padding: 0%;
+            background-color: lightgray;
+         
+        }
+        h1{
+            color:cadetblue;
+        }
+        h2 {
+            color: cornflowerblue;
+        }
+        h3{
+             color: cornflowerblue; 
+        }
+        h4{
+              color: cornflowerblue;
+        }
+        .box:hover{
+               transform: scale(1.1);
+            transition: 0.9s;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="box">
+    <h1>CONTACT</h1>
+    <H2>ikeerthika25@gmail.com</H2>
+    <h3>Ramnagar New Jail Road Maduari</h3>
+    <h4>9876766724 or 7658932105</h34>
+    </div>
+</body>
+</html>
